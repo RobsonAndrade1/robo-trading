@@ -122,7 +122,7 @@ Robo\_Trading/
 ```bash
 # Clone the repository
 git clone https://github.com/RobsonAndrade1/Robo\_Trading.git
-cd Robo\_Trading
+cd robo\_trading
 
 # Install required dependencies
 pip install -r requirements.txt
